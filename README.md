@@ -12,3 +12,8 @@ Instalar as dependências do projeto
 npm install
 ```
 
+# Executando com Expo 
+```sh
+expo start
+```
+
