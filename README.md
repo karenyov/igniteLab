@@ -1,4 +1,4 @@
-# ignite Lab
+# Ignite Lab
 O início da especialização em React Native
 
 # Requisitos
