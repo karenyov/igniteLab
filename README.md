@@ -17,3 +17,8 @@ npm install
 expo start
 ```
 
+Executar no dispositivo emulador Android
+```sh
+expo run:android
+```
+
