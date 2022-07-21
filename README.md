@@ -12,6 +12,9 @@ Instalar as dependências do projeto
 npm install
 ```
 
+## Firebase 
+Criar conexão [Firebase Cloud](https://console.firebase.google.com/).
+
 # Executando com Expo 
 ```sh
 expo start
