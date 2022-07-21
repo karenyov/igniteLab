@@ -22,3 +22,8 @@ Executar no dispositivo emulador Android
 expo run:android
 ```
 
+# Screenshots
+<p align="center">
+  <img src="https://github.com/karenyov/igniteLab/blob/main/app.gif" width="500">
+</p>
+
